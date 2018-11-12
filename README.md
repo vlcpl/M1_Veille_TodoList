@@ -1,3 +1,8 @@
+Exemple d'une Todo List réalisée avec React.
+Pour démarrer l'application: avec une console de commande, se rendre dans le répertoire du projet et lancer la commande "npm start". NodeJS nécessaire.
+
+=============================================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
